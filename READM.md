@@ -1,6 +1,6 @@
-### o
+### cloudsmith
 ---
-
+https://cloudsmith.io/
 
 ```
 ```
